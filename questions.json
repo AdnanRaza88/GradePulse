@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "How can I improve in {subject}? I scored {marks} out of {total}.",
+    "template": "How can I improve in {subject}? I scored {marks} out of {total}."
+  },
+  {
+    "id": 2,
+    "text": "What are the most important topics in {subject}?",
+    "template": "What are the most important topics in {subject}?"
+  }
+]
